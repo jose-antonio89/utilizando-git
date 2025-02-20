@@ -10,5 +10,7 @@ git add . ( . significa local em que está)
 -> Salva uma versão dos arquivos
 git commit -m "Porque estou salvando???"
 
+-> Envia commits locais para um repositório remoto.
+git push 
 
 
