@@ -15,3 +15,6 @@ git push
 
 -> Baixa a atualização dos arquivosdo Github para uma pasta já existente
 git pull
+
+-> Clona os arquivos do github na nuvem para o pc local
+git clone
