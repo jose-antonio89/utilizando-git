@@ -18,3 +18,6 @@ git pull
 
 -> Clona os arquivos do github na nuvem para o pc local
 git clone
+
+-> Remove a pasta e seus arquivos do controle do git (antes de utilizar precisa estár no local da pasta)
+git rm -r nome-da-pasta
