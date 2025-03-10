@@ -1,3 +1,9 @@
+-> Retira o usuario do pc
+git config --global --unset user.name
+
+-> Retira o email do pc
+git config --global --unset user.email
+
 -> Configura o usuario no PC
 git config --global user.name
 
