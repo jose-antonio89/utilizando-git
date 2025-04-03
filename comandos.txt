@@ -25,7 +25,7 @@ git commit -m "Porque estou salvando???"
 -> Envia commits locais para um repositório remoto.
 git push 
 
--> Baixa a atualização dos arquivosdo Github para uma pasta já existente
+-> Baixa a atualização dos arquivos do Github para uma pasta já existente
 git pull
 
 -> Clona os arquivos do github na nuvem para o pc local
